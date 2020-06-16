@@ -5,4 +5,4 @@ Repository with code of the ITMO BigData course project "Analysis of the impact 
 * Anastasiia Filatova, C41323
 * Anastasiia Belykh, C41323
 * Alexandra Chalikova, C41323
-* Mark Merezhnikov, C41323
+* Mark Merezhnikov, C41324
